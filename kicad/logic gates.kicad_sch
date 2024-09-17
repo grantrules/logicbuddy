@@ -1404,16 +1404,6 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 179.07) (xy 76.2 179.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1448f746-39fd-48e3-b15a-64648e860ae1")
-	)
-	(wire
-		(pts
 			(xy 110.49 67.31) (xy 125.73 67.31)
 		)
 		(stroke
@@ -1994,7 +1984,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 179.07) (xy 76.2 173.99)
+			(xy 64.77 173.99) (xy 64.77 187.96)
 		)
 		(stroke
 			(width 0)
@@ -2031,16 +2021,6 @@
 			(type default)
 		)
 		(uuid "903085d2-cdc7-4c92-8d33-2c8df1188df3")
-	)
-	(wire
-		(pts
-			(xy 64.77 179.07) (xy 64.77 187.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "904bbe65-0238-4fe5-af2a-d788988cca97")
 	)
 	(wire
 		(pts
@@ -2174,7 +2154,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 158.75) (xy 92.71 158.75)
+			(xy 72.39 158.75) (xy 92.71 158.75)
 		)
 		(stroke
 			(width 0)
@@ -3402,7 +3382,7 @@
 	)
 	(symbol
 		(lib_id "Connector:USB_B_Micro")
-		(at 76.2 163.83 0)
+		(at 64.77 163.83 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3411,7 +3391,7 @@
 		(fields_autoplaced yes)
 		(uuid "88c1c74f-41ef-4410-bcda-25e11c215cf2")
 		(property "Reference" "J1"
-			(at 76.2 151.13 0)
+			(at 64.77 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3419,7 +3399,7 @@
 			)
 		)
 		(property "Value" "USB_B_Micro"
-			(at 76.2 153.67 0)
+			(at 64.77 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3427,7 +3407,7 @@
 			)
 		)
 		(property "Footprint" "Connector_USB:USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles"
-			(at 80.01 165.1 0)
+			(at 68.58 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3436,7 +3416,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 80.01 165.1 0)
+			(at 68.58 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3445,7 +3425,7 @@
 			)
 		)
 		(property "Description" "USB Micro Type B connector"
-			(at 76.2 163.83 0)
+			(at 64.77 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3950,10 +3930,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "1c68472c-f07d-47a0-864d-81bd47be7fa6")
+			(uuid "1c68472c-f07d-47a0-864d-81bd47be7fa7")
 		)
 		(pin "2"
-			(uuid "51204d35-8be2-4734-b5b1-743626c190c6")
+			(uuid "51204d35-8be2-4734-b5b1-743626c190c7")
 		)
 		(instances
 			(project ""
@@ -4228,10 +4208,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "aebf60a9-e71f-4b61-a92a-3e50762f1118")
+			(uuid "aebf60a9-e71f-4b61-a92a-3e50762f1119")
 		)
 		(pin "1"
-			(uuid "4b06c540-e1bf-4069-9e15-46ce1f141a3f")
+			(uuid "4b06c540-e1bf-4069-9e15-46ce1f141a40")
 		)
 		(instances
 			(project ""
