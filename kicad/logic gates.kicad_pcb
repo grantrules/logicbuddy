@@ -109,7 +109,7 @@
 	(net 27 "Net-(Q7-B)")
 	(net 28 "Net-(Q7-C)")
 	(net 29 "Net-(SW7-B)")
-	(net 30 "Net-(SW8-B)")
+	(net 30 "Net-(SW6-B)")
 	(footprint "LED_THT:LED_D5.0mm"
 		(layer "F.Cu")
 		(uuid "0417f890-214d-4a04-9e42-b4642b6f2771")
@@ -359,7 +359,7 @@
 				)
 			)
 		)
-		(property "Value" "R345"
+		(property "Value" "345"
 			(at 5.08 2.37 90)
 			(layer "F.Fab")
 			(uuid "4f0746cc-e12e-4f27-8eb4-72f4caa29955")
@@ -1738,7 +1738,7 @@
 				)
 			)
 		)
-		(property "Value" "350"
+		(property "Value" "345"
 			(at 5.08 2.37 90)
 			(layer "F.Fab")
 			(uuid "d8f8899f-2442-4145-bb4c-d287f2967b5d")
@@ -3040,7 +3040,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 29 "Net-(SW7-B)")
+			(net 30 "Net-(SW6-B)")
 			(pintype "passive")
 			(uuid "028ec06f-5ee3-4679-ac49-8048da28c676")
 		)
@@ -3662,7 +3662,7 @@
 		(at 115 96)
 		(descr "momentary / push-push button, h=17.5mm C&K PVA1 https://www.ckswitches.com/media/1343/pva.pdf")
 		(tags "tact sw push PVA1 DPST")
-		(property "Reference" "SW7"
+		(property "Reference" "SW6"
 			(at 2.5 -2.75 0)
 			(layer "F.SilkS")
 			(uuid "2cf4c67b-481a-4210-a784-1a6f0065d024")
@@ -3945,7 +3945,7 @@
 			(drill 0.9)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 29 "Net-(SW7-B)")
+			(net 30 "Net-(SW6-B)")
 			(pinfunction "B")
 			(pintype "passive")
 			(uuid "0c8431fb-e387-4cb7-bad3-e33eac07fd79")
@@ -4237,7 +4237,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 30 "Net-(SW8-B)")
+			(net 29 "Net-(SW7-B)")
 			(pintype "passive")
 			(uuid "5ec2ec26-d8db-421e-994e-1bcaf1a0be7e")
 		)
@@ -4259,7 +4259,7 @@
 		(at 82 16 180)
 		(descr "1x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 9.78x4.72mm (see e.g. https://www.ctscorp.com/wp-content/uploads/206-208.pdf)")
 		(tags "DIP Switch SPST Slide 7.62mm 300mil")
-		(property "Reference" "SW6"
+		(property "Reference" "SW8"
 			(at 3.81 -3.42 0)
 			(layer "F.SilkS")
 			(uuid "eac10ee4-c21e-4d55-90af-57b2df92ef31")
@@ -5730,7 +5730,7 @@
 		(at 131 96)
 		(descr "momentary / push-push button, h=17.5mm C&K PVA1 https://www.ckswitches.com/media/1343/pva.pdf")
 		(tags "tact sw push PVA1 DPST")
-		(property "Reference" "SW8"
+		(property "Reference" "SW7"
 			(at 2.5 -2.75 0)
 			(layer "F.SilkS")
 			(uuid "6bb5dd5f-b81c-4a67-81a7-d1f5edeceaf6")
@@ -6013,7 +6013,7 @@
 			(drill 0.9)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 30 "Net-(SW8-B)")
+			(net 29 "Net-(SW7-B)")
 			(pinfunction "B")
 			(pintype "passive")
 			(uuid "d3dc72a5-ac17-401e-b60e-4d8c42bcaca3")
@@ -6616,7 +6616,7 @@
 				)
 			)
 		)
-		(property "Value" "R345"
+		(property "Value" "345"
 			(at 5.08 2.37 90)
 			(layer "F.Fab")
 			(uuid "81d6782a-3b64-4585-8459-77fae227587a")
@@ -11134,27 +11134,11 @@
 		(uuid "694b5ea2-5347-44f3-9e44-fb3226b4bebf")
 	)
 	(segment
-		(start 123.08 92.92)
-		(end 123.08 87)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 29)
-		(uuid "a9505187-3874-4472-99fb-2654fb6144ad")
-	)
-	(segment
-		(start 120 96)
-		(end 123.08 92.92)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 29)
-		(uuid "b6bba01f-08c3-4796-8efe-2a1eadf2bd49")
-	)
-	(segment
 		(start 138.58 93.42)
 		(end 138.58 87)
 		(width 0.2)
 		(layer "B.Cu")
-		(net 30)
+		(net 29)
 		(uuid "835a7104-2631-4fa1-8ae9-bc277beaf638")
 	)
 	(segment
@@ -11162,7 +11146,23 @@
 		(end 138.58 93.42)
 		(width 0.2)
 		(layer "B.Cu")
-		(net 30)
+		(net 29)
 		(uuid "d76bd089-175f-40ef-9d17-5fc3600278f5")
+	)
+	(segment
+		(start 123.08 92.92)
+		(end 123.08 87)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 30)
+		(uuid "a9505187-3874-4472-99fb-2654fb6144ad")
+	)
+	(segment
+		(start 120 96)
+		(end 123.08 92.92)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 30)
+		(uuid "b6bba01f-08c3-4796-8efe-2a1eadf2bd49")
 	)
 )

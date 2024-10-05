@@ -2670,7 +2670,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "24d33c42-0fdc-4e27-abca-786475d0bd42")
-		(property "Reference" "SW6"
+		(property "Reference" "SW8"
 			(at 100.33 151.13 0)
 			(effects
 				(font
@@ -2722,7 +2722,7 @@
 		(instances
 			(project ""
 				(path "/3781676b-6fe7-418a-9d16-7dd26fe4a4bc"
-					(reference "SW6")
+					(reference "SW8")
 					(unit 1)
 				)
 			)
@@ -2883,7 +2883,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R345"
+		(property "Value" "345"
 			(at 111.76 31.7499 0)
 			(effects
 				(font
@@ -3818,7 +3818,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a63c12bc-8261-4873-b6af-1e2374bd88ef")
-		(property "Reference" "SW8"
+		(property "Reference" "SW7"
 			(at 201.93 134.62 0)
 			(effects
 				(font
@@ -3870,7 +3870,7 @@
 		(instances
 			(project ""
 				(path "/3781676b-6fe7-418a-9d16-7dd26fe4a4bc"
-					(reference "SW8")
+					(reference "SW7")
 					(unit 1)
 				)
 			)
@@ -3886,7 +3886,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b0c9f6da-3589-4239-84c6-c3268ab805b8")
-		(property "Reference" "SW7"
+		(property "Reference" "SW6"
 			(at 185.42 134.62 0)
 			(effects
 				(font
@@ -3938,7 +3938,7 @@
 		(instances
 			(project ""
 				(path "/3781676b-6fe7-418a-9d16-7dd26fe4a4bc"
-					(reference "SW7")
+					(reference "SW6")
 					(unit 1)
 				)
 			)
@@ -4101,7 +4101,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "350"
+		(property "Value" "345"
 			(at 162.56 34.2899 0)
 			(effects
 				(font
@@ -4505,7 +4505,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R345"
+		(property "Value" "345"
 			(at 237.49 31.7499 0)
 			(effects
 				(font
