@@ -445,7 +445,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "logic gates.kicad_pro",
+    "filename": "logicbuddy.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -480,7 +480,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "um random gerber export so i can swee what it is/",
+      "plot": "../gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

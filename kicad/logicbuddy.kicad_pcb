@@ -115,7 +115,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "um random gerber export so i can swee what it is/")
+			(outputdirectory "../gerber/")
 		)
 	)
 	(net 0 "")
