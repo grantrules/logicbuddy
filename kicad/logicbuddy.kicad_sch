@@ -3285,7 +3285,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H5mm"
+		(property "Footprint" "Button_Switch_THT:SW_Push_2P1T_Toggle_CK_PVA1xxH1xxxxxxV2"
 			(at 92.71 140.97 0)
 			(effects
 				(font
@@ -3353,7 +3353,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H5mm"
+		(property "Footprint" "Button_Switch_THT:SW_Push_2P1T_Toggle_CK_PVA1xxH1xxxxxxV2"
 			(at 118.11 140.97 0)
 			(effects
 				(font
@@ -3545,7 +3545,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4d1e446b-bf04-4fc1-b73f-2bbe63ac03d9")
-		(property "Reference" "R12"
+		(property "Reference" "R3"
 			(at 234.95 67.3099 0)
 			(effects
 				(font
@@ -3599,7 +3599,7 @@
 		(instances
 			(project ""
 				(path "/3781676b-6fe7-418a-9d16-7dd26fe4a4bc"
-					(reference "R12")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -3715,7 +3715,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "776bc9fe-7767-451b-943a-dc4797ec9937")
-		(property "Reference" "R10"
+		(property "Reference" "R12"
 			(at 194.31 120.6499 0)
 			(effects
 				(font
@@ -3769,7 +3769,7 @@
 		(instances
 			(project ""
 				(path "/3781676b-6fe7-418a-9d16-7dd26fe4a4bc"
-					(reference "R10")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -3869,7 +3869,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H5mm"
+		(property "Footprint" "Button_Switch_THT:SW_Push_2P1T_Toggle_CK_PVA1xxH1xxxxxxV2"
 			(at 63.5 142.24 0)
 			(effects
 				(font
@@ -3937,7 +3937,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Aliexpress crap:USB_C_2pin-aliexpress"
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV"
 			(at 53.34 171.45 0)
 			(effects
 				(font
@@ -4068,7 +4068,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H5mm"
+		(property "Footprint" "Button_Switch_THT:SW_Push_2P1T_Toggle_CK_PVA1xxH1xxxxxxV2"
 			(at 36.83 142.24 0)
 			(effects
 				(font
@@ -4416,7 +4416,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H5mm"
+		(property "Footprint" "Button_Switch_THT:SW_Push_2P1T_Toggle_CK_PVA1xxH1xxxxxxV2"
 			(at 201.93 140.97 0)
 			(effects
 				(font
@@ -4484,7 +4484,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H5mm"
+		(property "Footprint" "Button_Switch_THT:SW_Push_2P1T_Toggle_CK_PVA1xxH1xxxxxxV2"
 			(at 185.42 140.97 0)
 			(effects
 				(font
@@ -4536,7 +4536,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b3a4f2ca-cb52-4a43-88e1-785bc319e75c")
-		(property "Reference" "R13"
+		(property "Reference" "R11"
 			(at 229.87 72.3899 0)
 			(effects
 				(font
@@ -4590,7 +4590,7 @@
 		(instances
 			(project ""
 				(path "/3781676b-6fe7-418a-9d16-7dd26fe4a4bc"
-					(reference "R13")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -4674,7 +4674,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b677c4f0-8e65-4d38-ae53-9966048bcd0c")
-		(property "Reference" "R3"
+		(property "Reference" "R10"
 			(at 162.56 31.7499 0)
 			(effects
 				(font
@@ -4728,7 +4728,7 @@
 		(instances
 			(project ""
 				(path "/3781676b-6fe7-418a-9d16-7dd26fe4a4bc"
-					(reference "R3")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -4744,7 +4744,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bd568934-9250-4046-a5c3-5fc11bfb8c14")
-		(property "Reference" "R11"
+		(property "Reference" "R13"
 			(at 212.09 120.6499 0)
 			(effects
 				(font
@@ -4798,7 +4798,7 @@
 		(instances
 			(project ""
 				(path "/3781676b-6fe7-418a-9d16-7dd26fe4a4bc"
-					(reference "R11")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -4928,7 +4928,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H5mm"
+		(property "Footprint" "Button_Switch_THT:SW_Push_2P1T_Toggle_CK_PVA1xxH1xxxxxxV2"
 			(at 153.67 140.97 0)
 			(effects
 				(font
