@@ -2,6 +2,8 @@
 
 A durable, easy-to-solder printed circuit board featuring clear diagrams and labels for each component. Gain practical experience with soldering and circuit assembly, boosting your confidence and skillset! Discover how logic gates serve as the backbone of modern electronics, from simple devices to complex computers, and assemble a NAND latch to understand memory storage in digital circuits.
 
+![circuit board](https://github.com/grantrules/logicbuddy/blob/main/images/circuitboard.png?raw=true)
+
 # Parts
 
 | Reference | Value |
