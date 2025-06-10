@@ -2,6 +2,18 @@
 
 A durable, easy-to-solder printed circuit board featuring clear diagrams and labels for each component. Gain practical experience with soldering and circuit assembly, boosting your confidence and skillset! Discover how logic gates serve as the backbone of modern electronics, from simple devices to complex computers, and assemble a NAND latch to understand memory storage in digital circuits.
 
+# Parts
+
+| Reference | Value |
+| --- | --- |
+| D1-D4 | LED |
+| Q1-Q7 | NPN Transistor |
+| R1-R4 | 345Ω resistor |
+| R5-R11 | 1kΩ resistor |
+| R12-13 | 10kΩ resistor |
+| SW1-7 | SPST Switch |
+| SW8 | DIP Switch |
+
 ## Gates
 
 * [AND Gate](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4UA2ATmIxAUgpABZsKBTAWjDACgA3W7FcY3urzA0aUMTSpIq06AjYAXECjx5wYXtmyE1vKhBgISdCXgyEMkFAhTEo0QggwoaYYpBoYaxBGFVg4IAAmDABmAIYArgA28gpKKuBmIJraYEl6doZkGMTY1jQIZG6qMA54WuZg2MQE+DnIVMHh0bEAzkr4Sk5dvJi6YuFRrQxs7cqqfcnWPWJUg8NsAE4dExIzztIgbnBL8atUeb1rVNuQbIHJeKKEoikgN0pBoZExTFEMgbvYV-eigr9iXBnADuSmcOj2EJByS0ALuxG00Lu6lUyMI0jYoOR-G4Qhx0JQ4NYvU6GygmPW3UmZIJCTQEwSaURFP+40hbNpDK5M057NJCQJ-ImpO6vLJbPp5Kx0zJhx5LJ4kJoDw5LJVCWVomEomhmvAIlx+p1Ct4D3+2vJQA)
